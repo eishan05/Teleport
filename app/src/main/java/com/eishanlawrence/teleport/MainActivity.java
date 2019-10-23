@@ -1,4 +1,4 @@
-package com.example.teleport;
+package com.eishanlawrence.teleport;
 
 import androidx.appcompat.app.AppCompatActivity;
 

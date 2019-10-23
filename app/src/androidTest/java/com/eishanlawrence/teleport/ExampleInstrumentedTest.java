@@ -1,4 +1,4 @@
-package com.example.teleport;
+package com.eishanlawrence.teleport;
 
 import android.content.Context;
 
